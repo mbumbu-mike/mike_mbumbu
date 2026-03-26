@@ -28,12 +28,28 @@ I enjoy **transforming complex datasets into actionable insights** and building 
 ## 🧠 How I Approach Data
 
 <div align="center">
-```
-🎯 Understand → 🛠 Prepare → 🔍 Explore → 🤖 Model → ✅ Evaluate → 📢 Communicate → 🚀 Improve
-```
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 </div>
 
-Data is not just numbers — it’s **patterns, risks, opportunities, and stories waiting to be decoded**. My process combines academic rigor with practical experience to deliver actionable insights.
+I view data as more than numbers — it’s **patterns, behaviors, risks, opportunities, and signals** waiting to be uncovered. My workflow is designed to transform raw data into actionable insights, guiding decision-making and solving real-world problems.
+
+```mermaid
+graph LR
+    A[📊 Explore Variables] --> B[🔍 Investigate Patterns] 
+    B --> C[🧹 Clean & Validate Data]
+    C --> D[🔗 Connect Insights]
+    D --> E[📈 Model & Forecast]
+    E --> F[💡 Recommend Actions]
+    
+    style A fill:#40E0D0,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#45B7D1,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#96CEB4,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#FECA57,stroke:#333,stroke-width:2px,color:#000
+```
+
+This approach combines **practical experience** from analytics projects and research with **academic insights** from my Master’s studies, ensuring solutions are both rigorous and actionable.
 
 ---
 
