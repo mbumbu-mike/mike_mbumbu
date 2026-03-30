@@ -1,15 +1,15 @@
-
+````markdown
 ---
 
 # 🌟 Hi, I’m Mike Mbumbu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&pause=1000\&color=40E0D0\&center=true\&vCenter=true\&width=600\&lines=Data+Science+%26+Analytics+Enthusiast;Time+Series+%26+Volatility+Analyst;Customer+Behavior+Researcher;Extreme+Value+Modeling+Practitioner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Data+Science+%26+Analytics+Enthusiast;Time+Series+%26+Volatility+Analyst;Customer+Behavior+Researcher;Extreme+Value+Modeling+Practitioner)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mbumbu-mike)
-[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mbumbumike5@gmail.com)
-[![Location](https://img.shields.io/badge/Nairobi-Kenya-2ecc71?style=for-the-badge\&logo=googlemaps\&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbumbu-mike)
+[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbumbumike5@gmail.com)
+[![Location](https://img.shields.io/badge/Nairobi-Kenya-2ecc71?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -44,18 +44,19 @@ I view data as more than numbers — it’s **patterns, behaviors, risks, opport
 
 ```mermaid
 graph LR
-    A[📊 Explore Variables] --> B[🔍 Investigate Patterns] 
+    A[📊 Explore Variables] --> B[🔍 Investigate Patterns]
     B --> C[🧹 Clean & Validate Data]
     C --> D[🔗 Connect Insights]
     D --> E[📈 Model & Forecast]
     E --> F[💡 Recommend Actions]
-    
+
     style A fill:#40E0D0,stroke:#333,stroke-width:2px,color:#000
     style B fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#000
     style C fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
     style D fill:#45B7D1,stroke:#333,stroke-width:2px,color:#000
     style E fill:#96CEB4,stroke:#333,stroke-width:2px,color:#000
     style F fill:#FECA57,stroke:#333,stroke-width:2px,color:#000
+````
 
 ---
 
@@ -87,6 +88,7 @@ graph LR
 ![Tableau](https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge)
 
 </div>
+```
 
 ---
 
